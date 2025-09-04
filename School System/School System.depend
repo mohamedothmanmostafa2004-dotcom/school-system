@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1756912112 source:d:\system school\school system\src\staff.cpp
+	"Staff.h"
+
+1756911986 d:\system school\school system\include\staff.h
+	<iostream>
+	<Person.h>
+
+1756912813 d:\system school\school system\include\person.h
+	<iostream>
+
+1756912125 source:d:\system school\school system\src\teacher.cpp
+	"Teacher.h"
+
+1756912033 d:\system school\school system\include\teacher.h
+	<Person.h>
+
+1756913158 source:d:\system school\school system\src\course.cpp
+	"Course.h"
+
+1756913138 d:\system school\school system\include\course.h
+	<iostream>
+
+1756913248 source:d:\system school\school system\src\person.cpp
+	"Person.h"
+
+1756914409 source:d:\system school\school system\src\student.cpp
+	"Student.h"
+
+1756912008 d:\system school\school system\include\student.h
+	<Person.h>
+
+1756919762 source:d:\system school\school system\src\classroom.cpp
+	"Classroom.h"
+	<iostream>
+
+1756919757 d:\system school\school system\include\classroom.h
+
+1756918734 source:d:\system school\school system\main.cpp
+	<iostream>
+	<Staff.h>
+	<Person.h>
+	<Student.h>
+	<School.h>
+
+1756922680 d:\system school\school system\include\school.h
+	<iostream>
+	<Teacher.h>
+	<Student.h>
+	<Staff.h>
+	<Course.h>
+
